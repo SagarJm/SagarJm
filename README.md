@@ -31,7 +31,7 @@
 - Flutter (Dart) cross‑platform mobile app.
 - Includes push notifications, state management, clean architecture.
 
-*(Add your other key projects similarly…)*
+
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 📬 Get In Touch
 <p align="center">
-  <a href="mailto:your.email@example.com">Email</a> •
+  <a href="sagarjm1111@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
   <a href="https://yourportfolio.dev">Portfolio</a>
 </p>
