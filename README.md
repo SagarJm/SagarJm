@@ -9,7 +9,8 @@
 ---
 
 ## 💼 About Me
-- Passionate about clean, scalable, and high-performance mobile applications.
+- Full-time freelancer with 4+ years of experience in Flutter and Android development.
+-  Passionate about clean, scalable, and high-performance mobile applications.
 - Experienced in MVVM, Clean Architecture, Jetpack Compose, Retrofit, Hilt, Room, Coroutines, Firebase.
 - Always learning: exploring new Android patterns, improving CI/CD workflows, and refining UI/UX.
 
