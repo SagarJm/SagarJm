@@ -17,9 +17,21 @@
 ---
 
 ## ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,androidstudio,flutter,jetpackcompose,retrofit,room,firebase,git&theme=light" alt="skills"/>
-</p>
+
+| Name              | Icon |
+|-----------        |------|
+| Flutter           | <img src="https://skillicons.dev/icons?i=flutter&theme=light" width="40" /> |
+| Android           | <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="40" /> |
+| Kotlin            | <img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="40" /> |
+| Dart              | <img src="https://skillicons.dev/icons?i=dart&theme=light" width="40" /> |
+| Java              | <img src="https://skillicons.dev/icons?i=java&theme=light" width="40" /> |
+| Swift             | <img src="https://skillicons.dev/icons?i=swift&theme=light" width="40" /> |
+| Firebase          | <img src="https://skillicons.dev/icons?i=firebase&theme=light" width="40" /> |
+| Git               | <img src="https://skillicons.dev/icons?i=git&theme=light" width="40" /> |
+| Jetpack Compose   | <img src="https://skillicons.dev/icons?i=jetpackcompose&theme=light" width="40" /> |
+| Retrofit          | <img src="https://skillicons.dev/icons?i=retrofit&theme=light" width="40" /> |
+| Room              | <img src="https://skillicons.dev/icons?i=room&theme=light" width="40" /> |
+
 
 ---
 
@@ -36,12 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-<!-- Stats cards -->
-![Sagar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
----
 
 ## 📬 Get In Touch
 <p align="center">
