@@ -28,9 +28,6 @@
 | Swift             | <img src="https://skillicons.dev/icons?i=swift&theme=light" width="40" /> |
 | Firebase          | <img src="https://skillicons.dev/icons?i=firebase&theme=light" width="40" /> |
 | Git               | <img src="https://skillicons.dev/icons?i=git&theme=light" width="40" /> |
-| Jetpack Compose   | <img src="https://skillicons.dev/icons?i=jetpackcompose&theme=light" width="40" /> |
-| Retrofit          | <img src="https://skillicons.dev/icons?i=retrofit&theme=light" width="40" /> |
-| Room              | <img src="https://skillicons.dev/icons?i=room&theme=light" width="40" /> |
 
 
 ---
